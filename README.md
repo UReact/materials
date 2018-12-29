@@ -10,4 +10,4 @@
 
 [egg.js](https://eggjs.org)
 
-[ant desiger](https://ant.design/components)
+[ant design](https://ant.design/components)
